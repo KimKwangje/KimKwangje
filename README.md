@@ -18,7 +18,17 @@
 <br>
 <br>
 
-**languages and tools :**
+<h3>
+  My Class
+</h3> 
+
+- 2023.10.05 ~ 2024.3.27 이젠 컴퓨터 아카데미 풀스택 수료
+<br /><br />
+<br>
+
+<h3>
+    languages and tools
+</h3>
 <!-- 뱃지 사용방법 -->
   <!-- 뱃지 아이콘 사이트 -->
   <!--   <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
@@ -30,11 +40,6 @@
 <p><img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;</p>
 <br>
 <br>
-
-**My Class :** 
-
-- 2023.10.05 ~ 2024.3.27 이젠 컴퓨터 아카데미 풀스택 수료
-<br /><br />
 
 **My Stack :**  
 - Backend web development (Java, Servlet/JSP, Spring Boot)
