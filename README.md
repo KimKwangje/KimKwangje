@@ -93,7 +93,6 @@
 
 
 </br>
-<hr>
 <h3>
   Front-End Project
 </h3>
