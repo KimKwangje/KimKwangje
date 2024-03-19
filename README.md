@@ -4,7 +4,8 @@
 </h3>
 <br /><br />
 <p>
-안녕하세요, 저는 Front-End & Back-End 풀스택 신입 개발자 김광제입니다. 열정과 아이디어가 넘치는 동료들과 함께할 때 최상의 시너지를 만들어냅니다.
+안녕하세요, 저는 Front-End & Back-End 풀스택 신입 개발자 김광제입니다.
+열정과 아이디어가 넘치는 동료들과 함께할 때 최상의 시너지를 만들어냅니다.
 소프트웨어에 대한 강한 열정과 참신한 아이디어를 꿈꾸고 직관적인 인터페이스와 손쉬운 사용법을 실현하는 것이 저의 가치관입니다.
 팀원들과의 인간적인 교류를 중요하고 쓸데없는 시간은 없다라고 생각하며 맡은 일에 책임감을 가지고 다 해냅니다.
 </p>
@@ -30,7 +31,7 @@
 
 <p><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=4479A1"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JAVA-8F0000?style=flat&logo&logoColor=4479A1"/></p>
 
-<p><img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;</p>
+<p><img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;</p>
 <br>
 <br>
 
