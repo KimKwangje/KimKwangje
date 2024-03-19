@@ -36,11 +36,10 @@
 - 2023.10.05 ~ 2024.3.27 이젠 컴퓨터 아카데미 풀스택 수료
 <br /><br />
 
-**My tech stack :**  
+**My Stack :**  
 - Backend web development (Java, Servlet/JSP, Spring Boot)
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
 - Oracle
-- Portfolio
 <br>
 
 
