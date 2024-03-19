@@ -120,7 +120,7 @@
  게시판 기능 구현 : Eclipse와 Servlet/JSP을 이용하여 게시판의 CRUD 구현, 페이징처리와 검색 기능 추가
 </p>
 <a href="https://github.com/KimKwangje/Shilla_CRUD">
-  <img align="left" alt="#" width="22px" src="#" />
+  <img align="left" alt="#" width="22px" src="#" />1
 </a>
 <br>
 
