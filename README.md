@@ -18,14 +18,17 @@
 - 010-9388-4179
 <br>
 <br>
-
 <h3>
-  My Class
-</h3> 
+  My Stack
+</h3>
 
-- 2023.10.05 ~ 2024.3.27 이젠 컴퓨터 아카데미 풀스택 수료
-<br /><br />
+- Backend web development (Java, Servlet/JSP, Spring Boot)
+- Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
+- Oracle
 <br>
+
+
+<br />
 
 <h3>
     Languages and Tools
@@ -54,17 +57,15 @@
 <br>
 <br>
 
-<h3>
-  My Stack
-</h3>
 
-- Backend web development (Java, Servlet/JSP, Spring Boot)
-- Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
-- Oracle
+<h3>
+  My Class
+</h3> 
+
+- 2023.10.05 ~ 2024.3.27 이젠 컴퓨터 아카데미 풀스택 수료
+<br /><br />
 <br>
 
-
-<br />
 
 ### Project
 <a href="#">
