@@ -10,17 +10,17 @@
    이런 생각을 바탕으로 좋은 신입 개발자가 되고 십습니다. <br/> 
 </p>
 
-<h3>
+<h2>
   Contact
-</h3>
+</h2>
 
 - tymss@naver.com <br>
 - 010-9388-4179
 <br>
 <br>
-<h3>
+<h2>
   My Stack
-</h3>
+</h2>
 
 - Backend web development (Java, Servlet/JSP, Spring Boot)
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
@@ -30,9 +30,9 @@
 
 <br />
 
-<h3>
+<h2>
     Languages and Tools
-</h3>
+</h2>
 <!-- 뱃지 사용방법 -->
   <!-- 뱃지 아이콘 사이트 -->
   <!--   <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
@@ -59,20 +59,31 @@
 <br>
 
 
-<h3>
+<h2>
   My Class
-</h3> 
+</h2> 
 
 - 2023.10.05 ~ 2024.3.27 이젠 컴퓨터 아카데미 풀스택 수료
 <br /><br />
 <br>
 
 
-<h3>
+<h2>
   Project  
+</h2>
+<h3>
+  Team Project
 </h3>
 <h4>
-  Team Project
+  Front-End
+</h4>
+<a href="#">
+  <img align="left" alt="#" width="22px" src="#" />
+</a>
+<br>
+</br>
+<h4>
+  Back-End
 </h4>
 <a href="#">
   <img align="left" alt="#" width="22px" src="#" />
@@ -81,9 +92,29 @@
 
 
 </br>
+<h3>
+  Front-End Project
+</h3>
 <h4>
-  Team Project
+  Project 01
 </h4>
 <a href="#">
   <img align="left" alt="#" width="22px" src="#" />
 </a>
+<br>
+
+
+</br>
+<h3>
+  Back-End Project
+</h3>
+<h4>
+  Project 01
+</h4>
+<a href="#">
+  <img align="left" alt="#" width="22px" src="#" />
+</a>
+<br>
+
+
+</br>
