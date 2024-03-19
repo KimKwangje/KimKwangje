@@ -1,5 +1,5 @@
 <h3>
-  안녕하세요, 저는 <strong>Front-End & Back-End 풀스택 신입 개발자 김광제</strong>입니다.
+  안녕하세요, 저는 <strong>풀스택 신입 개발자 김광제</strong>입니다.
 </h3>
 
 <h2>
