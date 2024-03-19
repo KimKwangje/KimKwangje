@@ -7,20 +7,15 @@
  <strong>열정</strong>과 <strong>아이디어</strong>가 넘치는 동료들과 함께할 때 최상의 <strong>시너지</strong>를 만들어냅니다. <br/>
  팀원들과의 인간적인 <strong>교류</strong>를 중요하고 쓸데없는 시간은 없다라고 생각하며 맡은 일에 <strong>책임감</strong>을 가지고 다 해냅니다. <br/>
  소프트웨어에 대한 강한 <strong>열정</strong>과 참신한 <strong>아이디어</strong>를 꿈꾸고 직관적인 인터페이스와 손쉬운 사용법을 실현하는 것이 저의 가치관입니다. <br/>
- 이런 생각을 바탕으로 좋은 개발자가 되고 십습니다. <br/> 
+ 이런 생각을 바탕으로 좋은 신입 개발자가 되고 십습니다. <br/> 
 </p>
-  
-- 💼 IT 풀스택 강의가 필요하세요? 의뢰해 주세요, [email](mailto:tymss@naver.com) :)
-- 💬 어떠한 것이든 문의해 주세요, 기꺼이 도움을;;
-<br>
 
-**My tech stack :**  
-- Backend web development (Java, Servlet/JSP, Spring Boot)
-- Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
-- Oracle
-- Portfolio
+<h3>
+  Contact
+</h3>
+- tymss@naver.com
+- 010-9388-4179
 <br>
-
 
 **languages and tools :**
 <!-- 뱃지 사용방법 -->
@@ -39,6 +34,13 @@
 
 - 2022.07.27 ~ 이젠 컴퓨터 아카데미 풀스택 강의
 <br /><br />
+
+**My tech stack :**  
+- Backend web development (Java, Servlet/JSP, Spring Boot)
+- Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
+- Oracle
+- Portfolio
+<br>
 
 
 <br />
